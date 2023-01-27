@@ -1,7 +1,6 @@
 body{
     width: 100vw;
-    height: 100vh;
-    background-image: url(../img/bgimage.jpg);
+    background-image: url(../img/screamer-punch.gif);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +33,6 @@ body{
     margin: 0 auto;
     height: 100%;
     flex-direction: column;
-    margin-top: 40px;
     font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
     font-weight: bold;
   }
