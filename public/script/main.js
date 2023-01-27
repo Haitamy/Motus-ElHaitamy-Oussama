@@ -19206,7 +19206,7 @@ function enter() {
       keyGuess.result = Correct;
       mot += keyGuess.key;
       if (mot === SecretWord) {
-        alert(`c'est gagné, alt + R pour rejouer`);
+        alert(`c'est gagné`);
         history.go(0)
       }
     } else if (SecretWord.includes(keyGuess.key)) {
